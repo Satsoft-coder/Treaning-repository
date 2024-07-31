@@ -5,4 +5,9 @@ public class Main {
         System.out.println("Дорабатываем Вывод информации");
         System.out.println("Доработка вторая Вывод информации");
     }
+
+    Person person1=new Person("Игорёк",12);
+    Person person2=new Person("Василий",46);
+
+
 }
