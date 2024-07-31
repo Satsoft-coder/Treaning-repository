@@ -3,5 +3,6 @@ public class Main {
         
         System.out.println("Вывод информации");
         System.out.println("Дорабатываем Вывод информации");
+        System.out.println("Доработка вторая Вывод информации");
     }
 }
